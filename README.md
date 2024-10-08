@@ -4,7 +4,7 @@ This repository is a comprehensive collection of design patterns implemented in 
 
 ## Patterns Implemented
 
-1. **Observer Pattern** - (Available)
+1. **Observer Pattern** 
 
 More patterns will be added, along with detailed explanations and projects.
 
@@ -12,7 +12,7 @@ More patterns will be added, along with detailed explanations and projects.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DesignPatterns.git
+   git clone https://github.com/firatkaanbitmez/DesignPatterns.git
 
 2. Navigate to the pattern folder you're interested in, open the solution in your preferred IDE, and run the project.
 
